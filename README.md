@@ -1,2 +1,2 @@
-# mmdet_config_visualizer
+# mmdet Config Visualizer
 A tool for visualizing mmdet configs
